@@ -1,0 +1,15 @@
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\bin\Debug\PrimeNumbersGenerator.Tests.dll
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\bin\Debug\PrimeNumbersGenerator.Tests.pdb
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\bin\Debug\PrimeNumbersGenerator.exe
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\bin\Debug\xunit.assert.dll
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\bin\Debug\xunit.core.dll
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\bin\Debug\PrimeNumbersGenerator.pdb
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\bin\Debug\xunit.abstractions.xml
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\bin\Debug\xunit.assert.xml
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\bin\Debug\xunit.core.xml
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\obj\Debug\PrimeNumbersGenerator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\obj\Debug\PrimeNumbersGenerator.Tests.dll
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator.Tests\obj\Debug\PrimeNumbersGenerator.Tests.pdb

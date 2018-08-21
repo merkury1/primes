@@ -1,0 +1,27 @@
+c:\users\michal\documents\visual studio 2015\Projects\PrimeNumbersGenerator\PrimeNumbersGenerator\bin\Debug\PrimeNumbersGenerator.exe.config
+C:\Users\Michal\documents\visual studio 2015\Projects\PrimeNumbersGenerator\PrimeNumbersGenerator\bin\Debug\PrimeNumbersGenerator.exe
+C:\Users\Michal\documents\visual studio 2015\Projects\PrimeNumbersGenerator\PrimeNumbersGenerator\bin\Debug\PrimeNumbersGenerator.pdb
+C:\Users\Michal\documents\visual studio 2015\Projects\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Michal\documents\visual studio 2015\Projects\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.Form1.resources
+C:\Users\Michal\documents\visual studio 2015\Projects\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.Properties.Resources.resources
+C:\Users\Michal\documents\visual studio 2015\Projects\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.csproj.GenerateResource.Cache
+C:\Users\Michal\documents\visual studio 2015\Projects\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.exe
+C:\Users\Michal\documents\visual studio 2015\Projects\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.pdb
+C:\Users\Michał\Desktop\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\bin\Debug\PrimeNumbersGenerator.exe.config
+C:\Users\Michał\Desktop\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.exe
+C:\Users\Michał\Desktop\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.pdb
+C:\Users\Michał\Desktop\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\bin\Debug\PrimeNumbersGenerator.exe
+C:\Users\Michał\Desktop\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\bin\Debug\PrimeNumbersGenerator.pdb
+C:\Users\Michał\Desktop\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Desktop\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.Form1.resources
+C:\Users\Michał\Desktop\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.Properties.Resources.resources
+C:\Users\Michał\Desktop\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.csproj.GenerateResource.Cache
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\bin\Debug\PrimeNumbersGenerator.exe.config
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.exe
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.pdb
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\bin\Debug\PrimeNumbersGenerator.exe
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\bin\Debug\PrimeNumbersGenerator.pdb
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.Form1.resources
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.Properties.Resources.resources
+C:\Users\Michal\Desktop\br\nowy\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\PrimeNumbersGenerator.csproj.GenerateResource.Cache
